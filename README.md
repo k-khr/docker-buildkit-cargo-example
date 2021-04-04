@@ -1,6 +1,6 @@
 # docker-buildkit-cargo-example
 
-This is the minimal example of the Docker multi-stage build with BuildKit caching.
+The minimal example of the Docker multi-stage build with BuildKit caching for Rust
 
 ## Usage
 
